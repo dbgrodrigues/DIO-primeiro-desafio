@@ -1,0 +1,14 @@
+Anotações basicas git
+
+* dir ou ls = listar o que está na pasta
+* cd \+nome da pasta = acesso a pasta escolhida
+* cd .. = volta um nivel, volta a pasta acima
+* Ctrl + L = limpar a tela (permance na pasta que vc esta usando, apenas limpa)
+* mkdir + nome = criar uma pasta
+* m = mover
+* -a = mostrar arquivos ocultos
+* git status = mostrar o status do arquivo
+* git push = empurra o seu repositorio
+* git add = adiciona o seu arquivo
+
+
